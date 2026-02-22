@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "deckId": "S-2",
+    "title": "Stephen Rando",
+    "theme": "ANZ Pacific Blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Stephen Rando",
+      "subheadline": "Digital Channels & Platforms",
+      "bullets": [
+        "Frontline banker and broker experience.",
+        "Enterprise-scale digital transformation delivery.",
+        "Disciplined, transparent execution."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "What I Bring"
+    },
+    {
+      "type": "content",
+      "headline": "Enterprise-Scale Channel Execution",
+      "bullets": [
+        "Led multi-year programs across Retail, Commercial, Wealth.",
+        "Accountable for scope, sequencing, financials, compliance.",
+        "Aligned design, technology, governance, and change.",
+        "Delivery discipline: OKRs, milestones, transparent risk.",
+        "Ensured momentum and predictability at scale."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Deep Frontline Understanding",
+      "bullets": [
+        "17+ years supporting bankers and brokers.",
+        "Understand workflow friction and turnaround pressures.",
+        "Tools integrate seamlessly into daily activity.",
+        "Translate needs into practical, scalable solutions.",
+        "Improve productivity and customer outcomes."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Executive Governance & Decision Support",
+      "bullets": [
+        "Operated in regulatory transformations and divestments.",
+        "Balance speed, risk, and control.",
+        "Provide structured, data-driven insights.",
+        "Clarify trade-offs, dependencies, exposures.",
+        "Enable fast, confident executive decisions."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Delivery Execution"
+    },
+    {
+      "type": "content",
+      "headline": "Accelerate Impact: First Steps",
+      "bullets": [
+        "Rapid immersion with bankers and brokers.",
+        "Validate pain points and success measures.",
+        "Agree outcomes, metrics, decision rights.",
+        "Align Technology, Product, Finance, Risk.",
+        "Lock governance and dependency clarity."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Near-Term Outcomes",
+      "bullets": [
+        "Establish delivery rhythm and stakeholder trust.",
+        "Provide transparent, priority-based channel roadmap."
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Motivation"
+    },
+    {
+      "type": "content",
+      "headline": "What Drives Me",
+      "bullets": [
+        "Purposeful ownership with measurable outcomes.",
+        "Improve daily frontline team operations.",
+        "Faster service, less friction, more confidence.",
+        "Thrive in complex, enterprise environments.",
+        "Lead through alignment and disciplined execution."
+      ]
+    },
+    {
+      "type": "beforeAfter",
+      "headline": "Operating Model Priorities",
+      "left": {
+        "title": "Embed Performance Transparency",
+        "bullets": [
+          "Implement a performance dashboard.",
+          "Delivery predictability tracking.",
+          "Benefit realisation visibility.",
+          "Frontline adoption metrics.",
+          "Risk profile monitoring.",
+          "Tie channel metrics to financials."
+        ]
+      },
+      "right": {
+        "title": "Strengthen Ways of Working",
+        "bullets": [
+          "Uplift agile maturity where required.",
+          "Clarify accountability across squads.",
+          "Reduce duplication across programs.",
+          "Improve release sequencing and coordination."
+        ]
+      }
+    },
+    {
+      "type": "content",
+      "headline": "Strategic Channel Blueprint 12–24 Months",
+      "bullets": [
+        "Define a multi-year channel roadmap.",
+        "Align to banker productivity.",
+        "Drive digital adoption.",
+        "Ensure regulatory resilience.",
+        "Plan key migration milestones.",
+        "Secure endorsement; align funding to priorities."
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "Enable frontline performance at scale",
+      "subheadline": "Modern, well-executed digital platforms"
+    }
+  ]
+}
